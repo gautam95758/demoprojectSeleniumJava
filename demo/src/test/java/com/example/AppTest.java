@@ -13,9 +13,12 @@ public class AppTest
      * Rigorous Test :-)
      */
     @Test
+
+    
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
         System.out.println("++++++++++++++++++++++TestCasePassed+++++++++++++++");
+        System.out.println("Hello Hello");
     }
 }
